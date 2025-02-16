@@ -1,0 +1,222 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    text-decoration: none;
+    color: #ffffff;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #000000;
+                                                                                
+}
+.kontent{
+    display: flex;  
+    justify-content: space-between;
+    align-items: center;
+    margin-right: 101px;
+    margin-left: 100px;
+}
+
+.hero__ul{  
+    display: flex;
+    gap: 100px;
+    list-style: none;
+    align-items: center;
+}
+.hero__li{
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+   font-size: 24px;
+   font-weight: 700;
+   line-height: 29px;
+   letter-spacing: 0%;
+   text-align: left;
+   box-shadow: 2px 10px 52px  rgb(255, 255, 255);
+}
+.hero__h2{
+    color: rgb(255, 0, 0);
+    font-family: Inter;     
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 58px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+.hero__div{
+    color: rgb(0, 0, 0);
+    position: absolute;
+    width: 602px;
+    height: 75px;
+    left: 455px;
+    right: 383px;
+    top: 206px;
+    bottom: 122px;
+    border-radius: 100px;
+    box-shadow: 2px 10px 52px  rgb(255, 255, 255);
+}
+.bola{
+    width: 237px;
+    box-shadow: 0px 22px 27.8px 0px #ffffff;
+}
+
+.ota{
+    text-align: center;         
+    position: relative;
+    margin-top: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.nevara{
+    width: 237px;
+    margin-top: -2px;
+    height: 209px;
+    background-color: #ff0000;
+}
+.firts{
+    position: absolute;
+    left: 223px;
+    right: 12px;
+    margin-top: -74px;
+    box-shadow: 1px 1px 43.8px 0px #ffffff;
+}
+
+.second{
+    position: absolute;
+    top: -69px;
+    left: 550px;
+    right: 0;
+    width: 411px;
+    border-radius: 100px;
+}
+.third{
+    position: absolute;
+    top: -100px;
+    left: 325px;
+}
+.header{
+    font-family: "Inter";
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 29px;
+    letter-spacing: 0%;
+    text-align: center;
+    padding-top: 96px;
+}
+.hero__item{
+    position: absolute;
+    width: 368px;
+    height: 332px;
+    left: 87px;
+    right: 122px;
+    top: 1044px;
+    bottom: px;
+    background: rgb(123, 37, 37);
+    border-radius: 12px;
+    box-shadow: 2px 10px 52px  rgb(255, 255, 255);
+}
+.hero__oyyyy{
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 39px;
+    letter-spacing: 0%;
+    text-align: center;
+    padding-left: 6px;
+    padding-top: 12px;
+}
+.hhh{
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: left;
+    margin-top: 144px;
+}
+.hhh{
+    color: rgb(255, 255, 255);
+font-family: Inter;
+font-size: 20px;
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: left;
+padding-left: 31px;
+padding-top: -11px;
+}
+.hero__ggg{
+    position: absolute;
+    width: 602px;
+    height: 75px;
+    left: 456px;
+    right: 382px;
+    top: 842px;
+    bottom: 200px;
+    border-radius: 100px;
+    background-color: #ffffff;
+    box-shadow: 2px 10px 52px  rgb(255, 255, 255);
+}
+.puu{
+    position: absolute;
+    width: 368px;
+    height: 332px;
+    left: 100px;
+    right: 122px;
+    top: 1044px;
+    margin-left: 572px;
+    bottom: px;
+    background: rgb(123, 37, 37);
+    border-radius: 12px;
+    box-shadow: 2px 10px 52px  rgb(255, 255, 255);
+}
+.jkk{
+    color: rgb(255, 255, 255);
+font-family: Inter;
+font-size: 32px;
+font-weight: 700;
+line-height: 39px;
+letter-spacing: 0%;
+text-align: center;
+    padding-left: 6px;
+    padding-top: 50px;
+}
+.kkk{
+    margin-left: 25px;
+    margin-top: 55px;
+}
+.her__oo{
+    position: absolute;
+    width: 368px;
+    height: 332px;
+    left: 100px;
+    right: 122px;
+    top: 1044px;
+    margin-left: 1000px;
+    bottom: px;
+    background: rgb(0, 0, 0);
+    border-radius: 12px;
+    box-shadow: 2px 10px 52px  rgb(255, 255, 255);
+}
+.hero__fds{
+    color: rgb(255, 255, 255);
+font-family: Inter;
+font-size: 32px;
+font-weight: 700;
+line-height: 39px;
+letter-spacing: 0%;
+text-align: center;
+    padding-left: 6px;
+    padding-top: 50px;
+}
+.hero__hhh{
+    margin-left: 25px;
+    margin-top: 55px;
+}
+.hero__hero{
+    margin-top: 140px;
+}
